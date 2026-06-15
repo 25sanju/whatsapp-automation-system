@@ -29,3 +29,13 @@ name,phone
 User1,+919876543210
 User2,+919123456789
 User3,+919998887777
+## Screenshots
+
+### GUI Interface
+![GUI](screenshots/gui.png)
+
+### File Upload
+![Upload](screenshots/upload.png)
+
+### Output
+![Output](screenshots/output.png)
